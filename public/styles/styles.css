@@ -1,0 +1,17 @@
+body{
+    font: normal 14px Verdana, Arial, sans-serif;
+    background-color:#D3D3D3}
+}
+
+p{
+    width: 80%;
+    margin: auto;
+}
+div{
+    width: 50%;
+    border: 3px  black
+    margin: auto;
+    background-color: white;
+    word-break: break-word;
+
+}
